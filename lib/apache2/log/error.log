@@ -1,0 +1,10 @@
+[Fri Sep 08 07:43:55.712384 2017] [mpm_prefork:notice] [pid 3881] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Sep 08 07:43:55.712468 2017] [core:notice] [pid 3881] AH00094: Command line: 'apache2'
+[Fri Sep 08 07:45:54.173559 2017] [mpm_prefork:notice] [pid 3881] AH00169: caught SIGTERM, shutting down
+[Fri Sep 08 07:45:56.296005 2017] [mpm_prefork:notice] [pid 4493] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Sep 08 07:45:56.296106 2017] [core:notice] [pid 4493] AH00094: Command line: 'apache2'
+[Fri Sep 08 08:33:10.648607 2017] [mpm_prefork:notice] [pid 4493] AH00169: caught SIGTERM, shutting down
+[Fri Sep 08 09:19:56.637943 2017] [mpm_prefork:notice] [pid 6588] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Fri Sep 08 09:19:56.638005 2017] [core:notice] [pid 6588] AH00094: Command line: 'apache2'
+[Fri Sep 08 09:20:11.458056 2017] [core:info] [pid 6595] [client 10.240.1.31:48592] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://web-application-n0ne.c9users.io/homePage.html
+[Fri Sep 08 09:28:13.370179 2017] [core:info] [pid 6595] [client 10.240.1.4:54690] AH00128: File does not exist: /home/ubuntu/workspace/img/nanatsu.png, referer: https://web-application-n0ne.c9users.io/homePage.html
