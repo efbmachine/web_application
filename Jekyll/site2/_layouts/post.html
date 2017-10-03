@@ -1,21 +1,19 @@
 <!DOCTYPE html>
+<html lang="en">
 
-<html>
-    
-    <table>
-        <thead>
-            <th>Title</th>
-            <th>Date</th>
-            <th>{{content}}</th>
-        </thead>
-        <tbody>
-            <tb>
-                {{post.title}}
-            </tb>
-            <tb>
-                
-            </tb>
-        </tbody>
-    </table>
-    
+  {% include head.html %}
+
+  {% include header.html %}
+
+  <body>
+    <section class="post-wrapper">
+      <p class="post-date">{{ page.date }}</p>
+    </section>
+    <h1 class="post-title">Building a blog using Jekyll. Creating custom&nbsp;layouts</h1>
+    <article class="post-content">
+      {{content}}
+    </article>
+  </body>
+
+  {% include footer.html %}
 </html>
